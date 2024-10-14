@@ -76,3 +76,16 @@ body{
         opacity: 1;
     }
 }
+
+@media screen and (max-width:650px){
+    #open-btn{
+        top: 70%;
+        left : 20%;
+    }
+
+    #modal{
+        left: 5%;
+        width: 300px;
+    }
+
+}
